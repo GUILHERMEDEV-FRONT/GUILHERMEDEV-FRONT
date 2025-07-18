@@ -1,5 +1,7 @@
-# ola! eu Guilherme Junio
-## desenvolvo sites e aplicaçoes web para o seu negocio
+# Olá! Eu sou o Guilherme Junio
+## Estudante de Desenvolvimento de Sistemas Web
+## Desenvolvedor focado em tecnologias frontend e backend 
+## Em busca de evoluir e entregar projetos reais!
 <a href="https://github.com/GUILHERMEDEV-FRONT/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GUILHERMEDEV-FRONT" />
 </a>
