@@ -51,7 +51,7 @@ Estudante de Desenvolvimento de Sistemas Web em constante evolução e apaixonad
 <div> 
   <a href="https://instagram.com/guilhermejuniorro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:guilhermerv1909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/guilherme-junio/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="[[https://www.linkedin.com/in/guilherme-junio/](https://www.linkedin.com/in/guilherme-junio/)](https://www.linkedin.com/in/guilherme-junio/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ### 📊 Estatísticas de Desenvolvedor
