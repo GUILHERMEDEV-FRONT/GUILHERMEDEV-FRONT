@@ -1,6 +1,6 @@
-# Perfil do GitHub de Guilherme Junio
 
-<img width="1584" height="396" alt="Blue Modern Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/0a8eb98a-633d-4a0a-84af-d2cfe6c6d675" />
+# Perfil do GitHub de Guilherme Junio
+<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/8857d796-e025-423f-8fca-9ce504fa6e55" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Desenvolvedor+Web;%F0%9F%92%BB+Freelancer+%7C+Solu%C3%A7%C3%B5es+Web" alt="Typing SVG" />
